@@ -1,0 +1,20 @@
+.left_input {
+  display: grid;
+  width: 20%;
+  margin-left: 50px;
+}
+#app {
+  display: flex;
+  gap: 200px;
+  width: 80%;
+  background-color: rgba(255, 255, 0, 0.493);
+}
+.item1 {
+  background-color: white;
+  padding: 10px 50px 10 px 50px;
+}
+
+button {
+  background-color: burlywood;
+  color: white;
+}
